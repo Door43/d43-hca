@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hca:home|Door43 (hca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hca|d43-hca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hca/archive/master.zip|d43-hca.zip]]
+
+**Recent Changes**
+{{changes>ns = hca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hca|Ethnologue data]]
+
